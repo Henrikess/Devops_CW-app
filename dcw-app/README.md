@@ -1,4 +1,4 @@
-Um aplicativo em react que trás as statisticas do covid.
+Um aplicativo em react que será utilizado no Devops Cloud Week, e trás as statisticas do covid.
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
